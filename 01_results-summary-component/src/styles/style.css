@@ -179,7 +179,8 @@
   font-weight: 700;
 }
 
-.card .container .summary .summary-content .continue-button:active {
+.card .container .summary .summary-content .continue-button:active,
+.card .container .summary .summary-content .continue-button:hover {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
